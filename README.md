@@ -1,4 +1,3 @@
-# Izabela_Madoyan
 # Movie DBMS Project (TMDB API)
 
 ## Նախագծի նկարագրություն
@@ -16,3 +15,13 @@
 2. Տեղադրել Python գրադարանները:
 3. Աշխատեցնել Python սկրիպտը՝ բազան տվյալներով լցնելու համար:
 4. Օգտագործել վերլուծական հարցումները:
+
+## Հիմնական տեխնիկաներ
+* **Table Partitioning:** Ֆիլմերի բաժանում ըստ տարեթվերի (Classic vs Modern):
+* **Window Functions:** 
+* **CTE & Subqueries:**
+* **JOINs:**
+* **Aggregations:**
+* **Advanced Filtering:**
+* **Filtering:**
+* **Conditional logic:**
